@@ -10,7 +10,7 @@ Mongo DB: https://hub.docker.com/layers/library/mongo/latest/images/sha256-26ba9
 
 **URL for Service API tier to view the records from backend tier**
 
-External IP **35.226.170.60**  PORT: **8080**
+External IP: **35.226.170.60**  PORT: **8080**
 
 1. **GET endpoint for retrive all records** : http://35.226.170.60:8080/persons
 
