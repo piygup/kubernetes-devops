@@ -22,6 +22,10 @@ External IP: **35.226.170.60**  PORT: **8080**
 
 5. **DELETE Endpoint by Id:** http://35.226.170.60:8080/persons/665c87841087694507491e56
 
+**Postman colleciton for all above opearation with request body:**
+
+https://api.postman.com/collections/3159356-03ecf368-f140-4ff6-819d-bcfea970b7ff?access_key=PMAT-01HZCW8PFZD5ZMRP322EMWMS5E
+
 
 
 
