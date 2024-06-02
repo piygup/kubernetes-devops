@@ -8,7 +8,7 @@ Spring boot application: https://hub.docker.com/r/piomin/sample-spring-boot-on-k
 
 Mongo DB: https://hub.docker.com/layers/library/mongo/latest/images/sha256-26ba9dcdb9a225f9d7957e5c5a962af9d9ca403d0c5562e1590338bbae37cd10?context=explore
 
-**URL for Service API tier to view the records from backend tier **
+**URL for Service API tier to view the records from backend tier**
 
 External IP & Port: **35.226.170.60:8080**
 
