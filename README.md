@@ -28,7 +28,8 @@ https://api.postman.com/collections/3159356-03ecf368-f140-4ff6-819d-bcfea970b7ff
 
 **Link for screen recording video showing everything mentioned above**
 
-<LINK>
+https://drive.google.com/file/d/1t8k2AcsJkIvWA5RFwPejl9nhG__geRjA/view?usp=drive_link
+
 
 
 
