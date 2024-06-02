@@ -26,7 +26,9 @@ External IP: **35.226.170.60**  PORT: **8080**
 
 https://api.postman.com/collections/3159356-03ecf368-f140-4ff6-819d-bcfea970b7ff?access_key=PMAT-01HZCW8PFZD5ZMRP322EMWMS5E
 
+**Link for screen recording video showing everything mentioned above**
 
+<LINK>
 
 
 
